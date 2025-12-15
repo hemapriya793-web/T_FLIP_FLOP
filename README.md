@@ -51,9 +51,8 @@ RTL LOGIC FOR T_FLIPFLOP:
 [EX 09 Dia.pdf](https://github.com/user-attachments/files/24149541/EX.09.Dia.pdf)
 
 WAVEFORM:
-<img width="1163" height="764" alt="WAVE" src="https://github.com/user-attachments/assets/551c4cd7-36df-4122-a4bd-22da6b06ccfc" />
+![T_FLIP](https://github.com/user-attachments/assets/1998b842-46cf-44ab-ada0-71635004a130)
 
-WAVE
 NAME: HEMA PRIYA
 
 REF NO: 25017270
